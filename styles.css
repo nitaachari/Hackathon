@@ -1,0 +1,94 @@
+body{
+    background: black;
+}
+.homepage{
+    margin: auto;
+    width: 1200px;
+    height: 600px;
+}
+.gridcontainer{
+    display: grid;
+    grid-template-rows: 33;
+}
+#line{
+    color : rgb(1, 202, 217);
+
+}
+.hometext{
+    text-align: center;
+    color: white;
+    margin:auto;
+    height: 70%;
+}
+#FirstPage{
+    background-image:url('WhatsApp Image 2024-04-14 at 02.32.45.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+h1, p, h3{
+    font-size : 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+h3{
+    font-size : 25px;
+}
+#email{
+    width: 36%;
+    height: 40px;
+    font-size: medium;
+}
+.bar{
+    display: inline-block;
+    background-color: white;
+    height: 30px;
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+#Submit{
+    width:15%;
+    height: 47px;
+    background-color: black;
+    color: white;
+    font-size: medium;
+}
+.Page2{
+    display:inline-block;
+
+}
+#video{
+    height: 600px;
+    width: 50%;
+}
+.signup{
+    text-decoration:none;
+
+}
+.movies{
+    text-decoration: none;
+}
+.gridcontainer1{
+    display:grid;
+    grid-template-columns: auto auto;
+}
+.content{
+    color:white;
+    font-size: 25px;
+    padding-top: 100px;
+    padding-left: 150px;
+}
+.image{
+    padding-top: 30px;
+}
+.gridcontainer2{
+    display:grid;
+    grid-template-columns: auto auto;
+}
+.popcorn{
+    height:500px;
+    width:500px;
+    padding-left:60px;
+
+}

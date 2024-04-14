@@ -1,0 +1,81 @@
+body{
+    background-color:black
+}
+.logo{
+    margin-top:20px;
+    margin-left:20px;
+    width:150px;
+    height:75px;
+}
+.grid-container{
+    display:grid;
+    grid-template-rows:25% 50%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:16px;
+    font-weight:600;
+    margin:0px;
+}
+.caption{
+    text-align:right;
+    color:white;
+
+}
+.text{
+    color:white;
+}
+.caption{
+    margin-top:20px;
+    margin-left:50px;
+}
+.header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+}
+.join{
+    text-decoration:none;
+    color:aliceblue;
+
+
+}
+.signout{
+    text-decoration:none;
+    color:white;
+}
+.movies{
+    color:white;
+    font-weight:bolder;
+}
+.text{
+    font-size: 20px;
+}
+.content{
+    color:aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+}
+.heading{
+    text-align: center;
+    color:aliceblue;
+}
+.title{
+    color:aliceblue;
+}
+.div{
+    display:flex;
+}
+.image{
+    height:350px;
+    width:350px;
+    padding:10px;
+    border: 10px;
+}
+.heading{
+    padding-top: 60px;
+}
+.button{
+    text-align:center;
+    
+}

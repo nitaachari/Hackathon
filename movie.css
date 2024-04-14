@@ -1,0 +1,32 @@
+.header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+}
+body{
+    background-color:black
+}
+.logo{
+    margin-top:20px;
+    margin-left:20px;
+    width:150px;
+    height:75px;
+}
+.join{
+    text-decoration:none;
+    color:aliceblue;
+
+
+}
+.signout{
+    text-decoration:none;
+    color:white;
+}
+.movies{
+    text-decoration:none;
+}
+.watchlist{
+    color:white
+    
+}

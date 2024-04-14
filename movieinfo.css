@@ -1,0 +1,36 @@
+.body{
+    background-color:black;
+}
+.header{
+    display:flex;
+}
+.text{
+    text-align:center;
+    color:white;
+}
+.grid-container{
+    grid-template-columns: 50% 50%;
+
+}
+.header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+}
+.logo{
+    margin-top:20px;
+    margin-left:20px;
+    width:150px;
+    height:75px;
+}
+.join{
+    text-decoration:none;
+    color:aliceblue;
+
+
+}
+.signout{
+    text-decoration:none;
+    color:white;
+}

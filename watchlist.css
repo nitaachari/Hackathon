@@ -1,0 +1,26 @@
+body{
+    background-color:black;
+}
+.watchlist{
+    color:white;
+    text-align: center;
+}
+.div{
+    display:flex;
+}
+.title{
+    color:white;
+    font-size: 20px;
+}
+.image{
+    height:350px;
+    width:350px;
+    padding:10px;
+    border: 10px;
+}
+.logo{
+    margin-top:20px;
+    margin-left:20px;
+    width:150px;
+    height:75px;
+}

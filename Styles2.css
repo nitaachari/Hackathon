@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    font-family: Iowan Old Style;
+  }
+  #title {
+    color: white;
+    font-size: 50px;
+    margin: 0;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .transparent-box{
+    width: 55%;
+    height: 350px;
+    background-color : rgba(243, 233, 233, 0.2);
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 0 0 30px 0 rgba(75, 75, 80, 0.5)
+  }
+  .logo{
+    margin-top:20px;
+    margin-left:20px;
+    width:150px;
+    height:75px;
+}
+  fieldset{
+    border: none;
+    margin-bottom: 10px;
+    border-bottom: 2px solid white;
+  }
+  input[type = "text"] , input[type = "email"], input[type = "number"]
+  {
+    width: 75%;
+    max-width: 250px;
+    height: 30px;
+    margin: auto;
+  }
+  input{
+    display: block;
+    margin: 0.5rem 0;
+    color: rgb(00,00,00);
+  }
+  label{
+    display: block;
+    margin: 0.5rem 0;
+    text-align: center;
+    color: white;
+  }
+
+  form{
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  input[type="submit"]
+  {
+    width : 50%;
+    height: 40px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid gray;
+    color: black;
+    text-transform: uppercase;
+  }
+  .inline{
+    display : inline;
+    margin: auto;
+  }
+  .movies{
+    text-decoration: none;
+
+  }
+  .content{
+    color:white;
+  }
